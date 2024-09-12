@@ -1,10 +1,11 @@
 from scripts.counter import count_sentences
-from models.openai_services import clean_data
+from models import openai
 import pandas as pd
 
 # Load the dataset
 input_file = 'data/casetext2022_for_gpt.csv'
-output_file = 'data/processed_casetext2022.csv'
+# output_file = 'data/processed_with_gpt_4_casetext2022.csv'
+output_file = 'data/processed_with_gpt_3_5_turbo_casetext2022.csv'
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(input_file)
@@ -19,8 +20,8 @@ df['llm_text'] = ""
 # Process each cell in the 'text' column
 def process_cell(text):
     if len(text) > 2:  # Skip text cells of two characters or fewer
-        cleaned_text = clean_data(text)
-        sentence_count = count_sentences(cleaned_text)
+        cleaned_text = openai.clean_data_with_gpt_3_5_turbo(text)
+        sentence_count = openai.count_sentences_with_gpt_3_5_turbo(text)
         return sentence_count, cleaned_text
     return 0, ""  # Default values for skipped cells
 
