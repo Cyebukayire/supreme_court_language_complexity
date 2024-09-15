@@ -1,0 +1,2671 @@
+{
+    "gpt-4": {
+        "log_entries": [
+            {
+                "request_id": "chatcmpl-A7YokJ8OptnwjGvQncNOObbYis9GY",
+                "timestamp": "2024-09-14T21:58:18Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 380,
+                "output_tokens": 102,
+                "total_tokens": 482,
+                "cost": 0.01752
+            },
+            {
+                "request_id": "chatcmpl-A7YoomoPI7xVZqzeUv5mQYMctgOvy",
+                "timestamp": "2024-09-14T21:58:22Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 192,
+                "output_tokens": 1,
+                "total_tokens": 193,
+                "cost": 0.00582
+            },
+            {
+                "request_id": "chatcmpl-A7Yoou3MlUWuZwLwzPKBoKC0oj07w",
+                "timestamp": "2024-09-14T21:58:22Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 395,
+                "output_tokens": 122,
+                "total_tokens": 517,
+                "cost": 0.01917
+            },
+            {
+                "request_id": "chatcmpl-A7YotlC58Knmk3dqdKiLfUAUxeD2n",
+                "timestamp": "2024-09-14T21:58:27Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 207,
+                "output_tokens": 1,
+                "total_tokens": 208,
+                "cost": 0.0062699999999999995
+            },
+            {
+                "request_id": "chatcmpl-A7YouCWiIhGbPOwITNikqsqlXuhme",
+                "timestamp": "2024-09-14T21:58:28Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 385,
+                "output_tokens": 109,
+                "total_tokens": 494,
+                "cost": 0.01809
+            },
+            {
+                "request_id": "chatcmpl-A7Yoy0NPscs6og8rwz2CmwXjH56tX",
+                "timestamp": "2024-09-14T21:58:32Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 197,
+                "output_tokens": 1,
+                "total_tokens": 198,
+                "cost": 0.0059700000000000005
+            },
+            {
+                "request_id": "chatcmpl-A7YoyIcOPVm9B8kKntzXNXyDQ3pNW",
+                "timestamp": "2024-09-14T21:58:32Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 485,
+                "output_tokens": 136,
+                "total_tokens": 621,
+                "cost": 0.02271
+            },
+            {
+                "request_id": "chatcmpl-A7Yp2p1BKliXcygwIKdiJfd5rv2ww",
+                "timestamp": "2024-09-14T21:58:36Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 297,
+                "output_tokens": 1,
+                "total_tokens": 298,
+                "cost": 0.008969999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7Yp3jCwKOVVf4kmVP3Fp8Y23w07U",
+                "timestamp": "2024-09-14T21:58:37Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 365,
+                "output_tokens": 82,
+                "total_tokens": 447,
+                "cost": 0.01587
+            },
+            {
+                "request_id": "chatcmpl-A7Yp6q54wGaUgRCiTIj8IBYta3ZYD",
+                "timestamp": "2024-09-14T21:58:40Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 177,
+                "output_tokens": 1,
+                "total_tokens": 178,
+                "cost": 0.00537
+            },
+            {
+                "request_id": "chatcmpl-A7Yp6EK2UWkab0gCBr9e44TBNJ0eI",
+                "timestamp": "2024-09-14T21:58:40Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 382,
+                "output_tokens": 82,
+                "total_tokens": 464,
+                "cost": 0.01638
+            },
+            {
+                "request_id": "chatcmpl-A7Yp9oHjdn8NCNSEA8RfDJoIj9nAx",
+                "timestamp": "2024-09-14T21:58:43Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 194,
+                "output_tokens": 1,
+                "total_tokens": 195,
+                "cost": 0.00588
+            },
+            {
+                "request_id": "chatcmpl-A7Yp92z78Eth3e5PruruedEJSQ1zl",
+                "timestamp": "2024-09-14T21:58:43Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 638,
+                "output_tokens": 139,
+                "total_tokens": 777,
+                "cost": 0.02748
+            },
+            {
+                "request_id": "chatcmpl-A7YpEUEVffOd6mzu8UbL2qamfZCDV",
+                "timestamp": "2024-09-14T21:58:48Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 450,
+                "output_tokens": 1,
+                "total_tokens": 451,
+                "cost": 0.01356
+            },
+            {
+                "request_id": "chatcmpl-A7YpF3Eae5uEVypq4U71FuvQg2UmU",
+                "timestamp": "2024-09-14T21:58:49Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 530,
+                "output_tokens": 224,
+                "total_tokens": 754,
+                "cost": 0.02934
+            },
+            {
+                "request_id": "chatcmpl-A7YpMaqWcDMmXTEDlGjzwKLSTI9Vf",
+                "timestamp": "2024-09-14T21:58:56Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 342,
+                "output_tokens": 1,
+                "total_tokens": 343,
+                "cost": 0.01032
+            },
+            {
+                "request_id": "chatcmpl-A7YpM1PPiWbb26zT6Mmwv4YsUwY3b",
+                "timestamp": "2024-09-14T21:58:56Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 422,
+                "output_tokens": 110,
+                "total_tokens": 532,
+                "cost": 0.01926
+            },
+            {
+                "request_id": "chatcmpl-A7YpRMvNHFHmDSg3y0kLyYncsNKh4",
+                "timestamp": "2024-09-14T21:59:01Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 234,
+                "output_tokens": 1,
+                "total_tokens": 235,
+                "cost": 0.00708
+            },
+            {
+                "request_id": "chatcmpl-A7YpRZUKE31pRWYNO4k8SvLRKaS1Y",
+                "timestamp": "2024-09-14T21:59:01Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 477,
+                "output_tokens": 166,
+                "total_tokens": 643,
+                "cost": 0.02427
+            },
+            {
+                "request_id": "chatcmpl-A7YpW8gehXlVt2hbjQaKKZI2tPFcU",
+                "timestamp": "2024-09-14T21:59:06Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 289,
+                "output_tokens": 1,
+                "total_tokens": 290,
+                "cost": 0.008729999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7YpX5k2yRqaIX1lpTyZKdifEACl1",
+                "timestamp": "2024-09-14T21:59:07Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 510,
+                "output_tokens": 200,
+                "total_tokens": 710,
+                "cost": 0.027299999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7Ypc2AS4tUZ2HZkXQbWqC4825wzY",
+                "timestamp": "2024-09-14T21:59:12Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 322,
+                "output_tokens": 1,
+                "total_tokens": 323,
+                "cost": 0.00972
+            },
+            {
+                "request_id": "chatcmpl-A7YpdvUe5rPL7JjO2D8EfycySzkFx",
+                "timestamp": "2024-09-14T21:59:13Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 471,
+                "output_tokens": 187,
+                "total_tokens": 658,
+                "cost": 0.025349999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7YpjTMeoXl6bwMzGQnfDH2xjv30F",
+                "timestamp": "2024-09-14T21:59:19Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 283,
+                "output_tokens": 1,
+                "total_tokens": 284,
+                "cost": 0.008549999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7YpjXVIBMoWqoTYuAynH5y9IaNtS",
+                "timestamp": "2024-09-14T21:59:19Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 482,
+                "output_tokens": 139,
+                "total_tokens": 621,
+                "cost": 0.0228
+            },
+            {
+                "request_id": "chatcmpl-A7YpnEkOegSDp5qZ0VgmfGNWRzl5Y",
+                "timestamp": "2024-09-14T21:59:23Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 294,
+                "output_tokens": 1,
+                "total_tokens": 295,
+                "cost": 0.008879999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7Ypo1lAtq7Idu2A06jMvSobHr8hi",
+                "timestamp": "2024-09-14T21:59:24Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 329,
+                "output_tokens": 28,
+                "total_tokens": 357,
+                "cost": 0.011550000000000001
+            },
+            {
+                "request_id": "chatcmpl-A7YppdxBoCMHlT0Bwqlm2I5wU3f2x",
+                "timestamp": "2024-09-14T21:59:25Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 141,
+                "output_tokens": 1,
+                "total_tokens": 142,
+                "cost": 0.0042899999999999995
+            },
+            {
+                "request_id": "chatcmpl-A7YppZvbPJV5ShSL6wlKYkOPO1Q0L",
+                "timestamp": "2024-09-14T21:59:25Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 383,
+                "output_tokens": 62,
+                "total_tokens": 445,
+                "cost": 0.01521
+            },
+            {
+                "request_id": "chatcmpl-A7YprqBTse4FbmZoTbZO4C3IdpoAG",
+                "timestamp": "2024-09-14T21:59:27Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 195,
+                "output_tokens": 1,
+                "total_tokens": 196,
+                "cost": 0.00591
+            },
+            {
+                "request_id": "chatcmpl-A7Ypr3zvHGorJRhtLxtbkCUpB5YP3",
+                "timestamp": "2024-09-14T21:59:27Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 439,
+                "output_tokens": 110,
+                "total_tokens": 549,
+                "cost": 0.01977
+            },
+            {
+                "request_id": "chatcmpl-A7Ypv7IUTrwXYWMoqi75pxikFQW4W",
+                "timestamp": "2024-09-14T21:59:31Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 251,
+                "output_tokens": 1,
+                "total_tokens": 252,
+                "cost": 0.0075899999999999995
+            },
+            {
+                "request_id": "chatcmpl-A7Ypv9lA9ix8bFdCPM18OPMhsCBx4",
+                "timestamp": "2024-09-14T21:59:31Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 620,
+                "output_tokens": 291,
+                "total_tokens": 911,
+                "cost": 0.036059999999999995
+            },
+            {
+                "request_id": "chatcmpl-A7Yq6HD0dykczrVqo7cQBx80L9ttJ",
+                "timestamp": "2024-09-14T21:59:42Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 432,
+                "output_tokens": 1,
+                "total_tokens": 433,
+                "cost": 0.013019999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7Yq6lI8OFbUVwQSaiLrhZqDFoadi",
+                "timestamp": "2024-09-14T21:59:42Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 443,
+                "output_tokens": 106,
+                "total_tokens": 549,
+                "cost": 0.01965
+            },
+            {
+                "request_id": "chatcmpl-A7YqA1tCwfl4RBKHNoEadeAWfBmFx",
+                "timestamp": "2024-09-14T21:59:46Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 255,
+                "output_tokens": 1,
+                "total_tokens": 256,
+                "cost": 0.00771
+            },
+            {
+                "request_id": "chatcmpl-A7YqAmZqGum9mppCKaOFmU5Ul5AFi",
+                "timestamp": "2024-09-14T21:59:46Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 386,
+                "output_tokens": 85,
+                "total_tokens": 471,
+                "cost": 0.01668
+            },
+            {
+                "request_id": "chatcmpl-A7YqDRkYlbqH2tMAS3Acbw8hjusEY",
+                "timestamp": "2024-09-14T21:59:49Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 198,
+                "output_tokens": 1,
+                "total_tokens": 199,
+                "cost": 0.006
+            },
+            {
+                "request_id": "chatcmpl-A7YqD2u4cL2qaMW1SGjFAPv3tlfRY",
+                "timestamp": "2024-09-14T21:59:49Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 414,
+                "output_tokens": 98,
+                "total_tokens": 512,
+                "cost": 0.018299999999999997
+            },
+            {
+                "request_id": "chatcmpl-A7YqHqB3dIvGMdmoJPbh818Pqs8hr",
+                "timestamp": "2024-09-14T21:59:53Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 226,
+                "output_tokens": 1,
+                "total_tokens": 227,
+                "cost": 0.00684
+            },
+            {
+                "request_id": "chatcmpl-A7YqHjZgS9XOWc0v5veZ8WEpOUeVH",
+                "timestamp": "2024-09-14T21:59:53Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 394,
+                "output_tokens": 121,
+                "total_tokens": 515,
+                "cost": 0.01908
+            },
+            {
+                "request_id": "chatcmpl-A7YqLnpDiGN9fPxiwjLxDuj0v2Ys5",
+                "timestamp": "2024-09-14T21:59:57Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 206,
+                "output_tokens": 1,
+                "total_tokens": 207,
+                "cost": 0.00624
+            },
+            {
+                "request_id": "chatcmpl-A7YqMlr5u1Aa4dmgbZDNvtz47ZLhN",
+                "timestamp": "2024-09-14T21:59:58Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 494,
+                "output_tokens": 154,
+                "total_tokens": 648,
+                "cost": 0.024059999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7YqREUja8Gmbr7jUkH5XO08VZcbw",
+                "timestamp": "2024-09-14T22:00:03Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 306,
+                "output_tokens": 1,
+                "total_tokens": 307,
+                "cost": 0.009239999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7YqRHnMfkfztEt4AO33slIZk1Nhg",
+                "timestamp": "2024-09-14T22:00:03Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 608,
+                "output_tokens": 288,
+                "total_tokens": 896,
+                "cost": 0.035519999999999996
+            },
+            {
+                "request_id": "chatcmpl-A7YqaC5rBGZ12aungGpjzQgiRd0iS",
+                "timestamp": "2024-09-14T22:00:12Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 420,
+                "output_tokens": 1,
+                "total_tokens": 421,
+                "cost": 0.012659999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7YqboeSpLueaL2OXG0EXnIsjsJ2V",
+                "timestamp": "2024-09-14T22:00:13Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 492,
+                "output_tokens": 182,
+                "total_tokens": 674,
+                "cost": 0.025679999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7YqiDFbPmVwtnkqwR6aegrzrQNxK",
+                "timestamp": "2024-09-14T22:00:20Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 304,
+                "output_tokens": 1,
+                "total_tokens": 305,
+                "cost": 0.009179999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7YqjO1BnfTYDTZbzAUAvGHweMlvi",
+                "timestamp": "2024-09-14T22:00:21Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 448,
+                "output_tokens": 167,
+                "total_tokens": 615,
+                "cost": 0.02346
+            },
+            {
+                "request_id": "chatcmpl-A7YqpDgTpDGtFnyj6QiJu5Iikx0Yn",
+                "timestamp": "2024-09-14T22:00:27Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 260,
+                "output_tokens": 1,
+                "total_tokens": 261,
+                "cost": 0.007859999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7YqpphOU2klTnzpBrTYrA8YCqTFC",
+                "timestamp": "2024-09-14T22:00:27Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 454,
+                "output_tokens": 132,
+                "total_tokens": 586,
+                "cost": 0.02154
+            },
+            {
+                "request_id": "chatcmpl-A7Yqvva8aVhHX45L8LV2yANjKdChe",
+                "timestamp": "2024-09-14T22:00:33Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 266,
+                "output_tokens": 1,
+                "total_tokens": 267,
+                "cost": 0.00804
+            },
+            {
+                "request_id": "chatcmpl-A7YqwA7ZWc0YdJuXUIIKYmD7vpthv",
+                "timestamp": "2024-09-14T22:00:34Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 554,
+                "output_tokens": 210,
+                "total_tokens": 764,
+                "cost": 0.029219999999999996
+            },
+            {
+                "request_id": "chatcmpl-A7Yr36xvAWPuYK5hfXaXOaUX1Ysca",
+                "timestamp": "2024-09-14T22:00:41Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 366,
+                "output_tokens": 1,
+                "total_tokens": 367,
+                "cost": 0.01104
+            },
+            {
+                "request_id": "chatcmpl-A7Yr4A6xeDg2rRRfiPKBMyzQYlOsI",
+                "timestamp": "2024-09-14T22:00:42Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 626,
+                "output_tokens": 271,
+                "total_tokens": 897,
+                "cost": 0.03504
+            },
+            {
+                "request_id": "chatcmpl-A7YrEp1PxPaWJAvVpzjv9RbPY7e4U",
+                "timestamp": "2024-09-14T22:00:52Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 438,
+                "output_tokens": 1,
+                "total_tokens": 439,
+                "cost": 0.013199999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7YrENhdlazI2wcwfnFZ5vD3n1lX6",
+                "timestamp": "2024-09-14T22:00:52Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 517,
+                "output_tokens": 159,
+                "total_tokens": 676,
+                "cost": 0.02505
+            },
+            {
+                "request_id": "chatcmpl-A7YrJAcE50H8PPnGtokupnHqhiKdw",
+                "timestamp": "2024-09-14T22:00:57Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 329,
+                "output_tokens": 1,
+                "total_tokens": 330,
+                "cost": 0.00993
+            },
+            {
+                "request_id": "chatcmpl-A7YrKNDzH8txmdWHvFiOT9tul7nS2",
+                "timestamp": "2024-09-14T22:00:58Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 453,
+                "output_tokens": 159,
+                "total_tokens": 612,
+                "cost": 0.023129999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7YrP2bhga7CTmFuUTxlsCXrQv9CE",
+                "timestamp": "2024-09-14T22:01:03Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 265,
+                "output_tokens": 1,
+                "total_tokens": 266,
+                "cost": 0.00801
+            },
+            {
+                "request_id": "chatcmpl-A7YrQuFYewqR9wGDvqA2Vc7BdI4So",
+                "timestamp": "2024-09-14T22:01:04Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 280,
+                "output_tokens": 6,
+                "total_tokens": 286,
+                "cost": 0.00876
+            },
+            {
+                "request_id": "chatcmpl-A7YrRJUMQSK1xDDvuGtYYZ6E3ulM8",
+                "timestamp": "2024-09-14T22:01:05Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 92,
+                "output_tokens": 1,
+                "total_tokens": 93,
+                "cost": 0.00282
+            },
+            {
+                "request_id": "chatcmpl-A7YrRqW2fhNN45z4ZvLtUG1K9jjSi",
+                "timestamp": "2024-09-14T22:01:05Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 297,
+                "output_tokens": 21,
+                "total_tokens": 318,
+                "cost": 0.01017
+            },
+            {
+                "request_id": "chatcmpl-A7YrSlWzItf55pycid4qjA0dCuyDo",
+                "timestamp": "2024-09-14T22:01:06Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 109,
+                "output_tokens": 1,
+                "total_tokens": 110,
+                "cost": 0.00333
+            },
+            {
+                "request_id": "chatcmpl-A7YrSmCgQp0SbrurLrnVJruzGJNiy",
+                "timestamp": "2024-09-14T22:01:06Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 547,
+                "output_tokens": 188,
+                "total_tokens": 735,
+                "cost": 0.02769
+            },
+            {
+                "request_id": "chatcmpl-A7YrbunOT7AGtwZJYEDASan7nn3Kz",
+                "timestamp": "2024-09-14T22:01:15Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 359,
+                "output_tokens": 1,
+                "total_tokens": 360,
+                "cost": 0.010829999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7YrbMgyuIebVb1HkQLgEa1RAJCUS",
+                "timestamp": "2024-09-14T22:01:15Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 316,
+                "output_tokens": 23,
+                "total_tokens": 339,
+                "cost": 0.01086
+            },
+            {
+                "request_id": "chatcmpl-A7YrcJav5Mko4SzzJAyhCtKgqwDXi",
+                "timestamp": "2024-09-14T22:01:16Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 128,
+                "output_tokens": 1,
+                "total_tokens": 129,
+                "cost": 0.0039000000000000003
+            },
+            {
+                "request_id": "chatcmpl-A7Yrdkt4nsGFeo4fg7fCFIg3I3FWW",
+                "timestamp": "2024-09-14T22:01:17Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 528,
+                "output_tokens": 205,
+                "total_tokens": 733,
+                "cost": 0.02814
+            },
+            {
+                "request_id": "chatcmpl-A7YrleCKER8raTRsxCzmOf3sFejRE",
+                "timestamp": "2024-09-14T22:01:25Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 340,
+                "output_tokens": 1,
+                "total_tokens": 341,
+                "cost": 0.01026
+            },
+            {
+                "request_id": "chatcmpl-A7YrlnBEleXjYkUErjAhQCATS3pMA",
+                "timestamp": "2024-09-14T22:01:25Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 576,
+                "output_tokens": 138,
+                "total_tokens": 714,
+                "cost": 0.02556
+            },
+            {
+                "request_id": "chatcmpl-A7Yrq0GR1gJ6yENCQ0WxWgWnhyXpz",
+                "timestamp": "2024-09-14T22:01:30Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 388,
+                "output_tokens": 1,
+                "total_tokens": 389,
+                "cost": 0.011699999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7Yrr7w6YMfCjhH0rVJeTm1nRTBI2",
+                "timestamp": "2024-09-14T22:01:31Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 492,
+                "output_tokens": 173,
+                "total_tokens": 665,
+                "cost": 0.025139999999999996
+            },
+            {
+                "request_id": "chatcmpl-A7YrwO0EjIzygOSPwZVxWIVjopVxl",
+                "timestamp": "2024-09-14T22:01:36Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 304,
+                "output_tokens": 1,
+                "total_tokens": 305,
+                "cost": 0.009179999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7YrxZDulPfpkAaeyYHok78R2ACP0",
+                "timestamp": "2024-09-14T22:01:37Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 418,
+                "output_tokens": 92,
+                "total_tokens": 510,
+                "cost": 0.01806
+            },
+            {
+                "request_id": "chatcmpl-A7Ys0XM6yY7vcQ3VRXPRLkKWtVA8x",
+                "timestamp": "2024-09-14T22:01:40Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 230,
+                "output_tokens": 1,
+                "total_tokens": 231,
+                "cost": 0.00696
+            },
+            {
+                "request_id": "chatcmpl-A7Ys1bE7PXVNYTOxYF3Gr4m8WAn2g",
+                "timestamp": "2024-09-14T22:01:41Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 550,
+                "output_tokens": 195,
+                "total_tokens": 745,
+                "cost": 0.028200000000000003
+            },
+            {
+                "request_id": "chatcmpl-A7Ys79qdj0PStKuMYNDBI3Z8GBcHF",
+                "timestamp": "2024-09-14T22:01:47Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 362,
+                "output_tokens": 1,
+                "total_tokens": 363,
+                "cost": 0.01092
+            },
+            {
+                "request_id": "chatcmpl-A7Ys8Jq0f4bOBnqZtx1AAP939ZIxC",
+                "timestamp": "2024-09-14T22:01:48Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 614,
+                "output_tokens": 234,
+                "total_tokens": 848,
+                "cost": 0.03246
+            },
+            {
+                "request_id": "chatcmpl-A7YsHUVqRdU4EQPxSV8QCksqROGUw",
+                "timestamp": "2024-09-14T22:01:57Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 426,
+                "output_tokens": 1,
+                "total_tokens": 427,
+                "cost": 0.012839999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7YsHaVjKL9R1cpp1ds2CuXq2UdNe",
+                "timestamp": "2024-09-14T22:01:57Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 386,
+                "output_tokens": 70,
+                "total_tokens": 456,
+                "cost": 0.015780000000000002
+            },
+            {
+                "request_id": "chatcmpl-A7YsK43FiXhWt71FngPZWda8cfwGB",
+                "timestamp": "2024-09-14T22:02:00Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 198,
+                "output_tokens": 1,
+                "total_tokens": 199,
+                "cost": 0.006
+            },
+            {
+                "request_id": "chatcmpl-A7YsKPlhzAS5wpUTg9tbTcUOc6I8Y",
+                "timestamp": "2024-09-14T22:02:00Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 379,
+                "output_tokens": 99,
+                "total_tokens": 478,
+                "cost": 0.01731
+            },
+            {
+                "request_id": "chatcmpl-A7YsObfReoed7EP2bO04JPNacpACv",
+                "timestamp": "2024-09-14T22:02:04Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 191,
+                "output_tokens": 1,
+                "total_tokens": 192,
+                "cost": 0.00579
+            },
+            {
+                "request_id": "chatcmpl-A7YsObKkGUGC148uWNJb2qB5Vs1bx",
+                "timestamp": "2024-09-14T22:02:04Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 582,
+                "output_tokens": 254,
+                "total_tokens": 836,
+                "cost": 0.0327
+            },
+            {
+                "request_id": "chatcmpl-A7YsXcd78Rhj1H6JzfHKksJfJdAzf",
+                "timestamp": "2024-09-14T22:02:13Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 394,
+                "output_tokens": 1,
+                "total_tokens": 395,
+                "cost": 0.01188
+            },
+            {
+                "request_id": "chatcmpl-A7ZO1qQrImMTpGUdKPSsznSOjI9qH",
+                "timestamp": "2024-09-14T22:34:45Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 394,
+                "output_tokens": 101,
+                "total_tokens": 495,
+                "cost": 0.01788
+            },
+            {
+                "request_id": "chatcmpl-A7ZO4ZZ2LkSKk2SjrOz9u89ERSFIZ",
+                "timestamp": "2024-09-14T22:34:48Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 192,
+                "output_tokens": 1,
+                "total_tokens": 193,
+                "cost": 0.00582
+            },
+            {
+                "request_id": "chatcmpl-A7ZO4YSu3DAe81cQgl5IICtK9ZyEe",
+                "timestamp": "2024-09-14T22:34:48Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 409,
+                "output_tokens": 135,
+                "total_tokens": 544,
+                "cost": 0.02037
+            },
+            {
+                "request_id": "chatcmpl-A7ZO8OnKvFxZTwn3BMjQTk1hqJ7MY",
+                "timestamp": "2024-09-14T22:34:52Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 207,
+                "output_tokens": 1,
+                "total_tokens": 208,
+                "cost": 0.0062699999999999995
+            },
+            {
+                "request_id": "chatcmpl-A7ZO8o6b4nJLg20DMxDWodm6SZIyI",
+                "timestamp": "2024-09-14T22:34:52Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 399,
+                "output_tokens": 108,
+                "total_tokens": 507,
+                "cost": 0.01845
+            },
+            {
+                "request_id": "chatcmpl-A7ZOB5d2Rz9rN31Fnn3rfZUpnJYFf",
+                "timestamp": "2024-09-14T22:34:55Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 197,
+                "output_tokens": 1,
+                "total_tokens": 198,
+                "cost": 0.0059700000000000005
+            },
+            {
+                "request_id": "chatcmpl-A7ZPeRgZuiu5Ln7rORCl9jicNu9jO",
+                "timestamp": "2024-09-14T22:36:26Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 394,
+                "output_tokens": 109,
+                "total_tokens": 503,
+                "cost": 0.01836
+            },
+            {
+                "request_id": "chatcmpl-A7ZPjmzxs4hKvzsTFfAbum8tgGQ8z",
+                "timestamp": "2024-09-14T22:36:31Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 192,
+                "output_tokens": 1,
+                "total_tokens": 193,
+                "cost": 0.00582
+            },
+            {
+                "request_id": "chatcmpl-A7ZPkDu5Ctgc3mMCcXVUwQACnuIDu",
+                "timestamp": "2024-09-14T22:36:32Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 409,
+                "output_tokens": 133,
+                "total_tokens": 542,
+                "cost": 0.020249999999999997
+            },
+            {
+                "request_id": "chatcmpl-A7ZPokbhbI5ZSlxr3OWKCBozO2MlN",
+                "timestamp": "2024-09-14T22:36:36Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 207,
+                "output_tokens": 1,
+                "total_tokens": 208,
+                "cost": 0.0062699999999999995
+            },
+            {
+                "request_id": "chatcmpl-A7ZPpABUqRrCYLyJFySSUu85bCbjd",
+                "timestamp": "2024-09-14T22:36:37Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 399,
+                "output_tokens": 107,
+                "total_tokens": 506,
+                "cost": 0.01839
+            },
+            {
+                "request_id": "chatcmpl-A7ZPtLaPaIZGGv6KqW0lnfFItUQIO",
+                "timestamp": "2024-09-14T22:36:41Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 197,
+                "output_tokens": 1,
+                "total_tokens": 198,
+                "cost": 0.0059700000000000005
+            },
+            {
+                "request_id": "chatcmpl-A7ZPtJReYU4QGS8PcEu3lZrqJZafK",
+                "timestamp": "2024-09-14T22:36:41Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 499,
+                "output_tokens": 131,
+                "total_tokens": 630,
+                "cost": 0.02283
+            },
+            {
+                "request_id": "chatcmpl-A7ZPxgKusHwB7Jg8vYZj3qPp6rfd9",
+                "timestamp": "2024-09-14T22:36:45Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 297,
+                "output_tokens": 1,
+                "total_tokens": 298,
+                "cost": 0.008969999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZPx2gbLhLtST49pyUEnPNoo9MXP",
+                "timestamp": "2024-09-14T22:36:45Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 379,
+                "output_tokens": 86,
+                "total_tokens": 465,
+                "cost": 0.01653
+            },
+            {
+                "request_id": "chatcmpl-A7ZQ18BZINPTFpIA9gVTcDcu34YA4",
+                "timestamp": "2024-09-14T22:36:49Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 177,
+                "output_tokens": 1,
+                "total_tokens": 178,
+                "cost": 0.00537
+            },
+            {
+                "request_id": "chatcmpl-A7ZQ1hJ44pTLg7enT5pbim17wumat",
+                "timestamp": "2024-09-14T22:36:49Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 396,
+                "output_tokens": 81,
+                "total_tokens": 477,
+                "cost": 0.016739999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7ZQ4dH054wuSDxYheBVaL0ZshNgI",
+                "timestamp": "2024-09-14T22:36:52Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 194,
+                "output_tokens": 1,
+                "total_tokens": 195,
+                "cost": 0.00588
+            },
+            {
+                "request_id": "chatcmpl-A7ZQ4pUpMA1Wv5Wy9x2De0SlDeeh9",
+                "timestamp": "2024-09-14T22:36:52Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 652,
+                "output_tokens": 134,
+                "total_tokens": 786,
+                "cost": 0.0276
+            },
+            {
+                "request_id": "chatcmpl-A7ZQ80jIs3udyGRaunDfzCRuPOqCH",
+                "timestamp": "2024-09-14T22:36:56Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 450,
+                "output_tokens": 1,
+                "total_tokens": 451,
+                "cost": 0.01356
+            },
+            {
+                "request_id": "chatcmpl-A7ZQ9AhBF7OqRfAkuxwyxVmSvg243",
+                "timestamp": "2024-09-14T22:36:57Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 544,
+                "output_tokens": 202,
+                "total_tokens": 746,
+                "cost": 0.02844
+            },
+            {
+                "request_id": "chatcmpl-A7ZQG4pd3iDi7C1N3eiiTUOSiUoxm",
+                "timestamp": "2024-09-14T22:37:04Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 342,
+                "output_tokens": 1,
+                "total_tokens": 343,
+                "cost": 0.01032
+            },
+            {
+                "request_id": "chatcmpl-A7ZQHcMULBpwK6Awt9wYemc24EW8w",
+                "timestamp": "2024-09-14T22:37:05Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 436,
+                "output_tokens": 111,
+                "total_tokens": 547,
+                "cost": 0.01974
+            },
+            {
+                "request_id": "chatcmpl-A7ZQKNm6H3XeUvsyswWj1q7l11UuV",
+                "timestamp": "2024-09-14T22:37:08Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 234,
+                "output_tokens": 1,
+                "total_tokens": 235,
+                "cost": 0.00708
+            },
+            {
+                "request_id": "chatcmpl-A7ZQLSl1l0ZuKafXdHxw158Y3c2BD",
+                "timestamp": "2024-09-14T22:37:09Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 491,
+                "output_tokens": 164,
+                "total_tokens": 655,
+                "cost": 0.02457
+            },
+            {
+                "request_id": "chatcmpl-A7ZQR8uK5DvX0ZSD5Kyp3isUcE5yE",
+                "timestamp": "2024-09-14T22:37:15Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 289,
+                "output_tokens": 1,
+                "total_tokens": 290,
+                "cost": 0.008729999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7ZQSwPcLnQgoDx0B53iLMjMuQ7Hm",
+                "timestamp": "2024-09-14T22:37:16Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 524,
+                "output_tokens": 200,
+                "total_tokens": 724,
+                "cost": 0.02772
+            },
+            {
+                "request_id": "chatcmpl-A7ZQaUUT0zgwGQqcllMCZ8GRe4xph",
+                "timestamp": "2024-09-14T22:37:24Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 322,
+                "output_tokens": 1,
+                "total_tokens": 323,
+                "cost": 0.00972
+            },
+            {
+                "request_id": "chatcmpl-A7ZQa9t2od9nNxJcJOAv7yJLfXttA",
+                "timestamp": "2024-09-14T22:37:24Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 485,
+                "output_tokens": 191,
+                "total_tokens": 676,
+                "cost": 0.02601
+            },
+            {
+                "request_id": "chatcmpl-A7ZQgoGaUe1BuFPAHRU4ImQyXH8sO",
+                "timestamp": "2024-09-14T22:37:30Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 283,
+                "output_tokens": 1,
+                "total_tokens": 284,
+                "cost": 0.008549999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZQhbrgo6NuBc0C70ql18e6HfdtP",
+                "timestamp": "2024-09-14T22:37:31Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 496,
+                "output_tokens": 152,
+                "total_tokens": 648,
+                "cost": 0.024
+            },
+            {
+                "request_id": "chatcmpl-A7ZQnR3GiZ0OlUoarRHMii41JWADp",
+                "timestamp": "2024-09-14T22:37:37Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 294,
+                "output_tokens": 1,
+                "total_tokens": 295,
+                "cost": 0.008879999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZQn6i2IosgY5XK3NWd84lm3wIsr",
+                "timestamp": "2024-09-14T22:37:37Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 343,
+                "output_tokens": 29,
+                "total_tokens": 372,
+                "cost": 0.01203
+            },
+            {
+                "request_id": "chatcmpl-A7ZQpKgS8M6DuOTpuEi6SUetQ1ZIA",
+                "timestamp": "2024-09-14T22:37:39Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 141,
+                "output_tokens": 1,
+                "total_tokens": 142,
+                "cost": 0.0042899999999999995
+            },
+            {
+                "request_id": "chatcmpl-A7ZQpOxgxJEXld4wIO2BcdnmX2mY4",
+                "timestamp": "2024-09-14T22:37:39Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 397,
+                "output_tokens": 62,
+                "total_tokens": 459,
+                "cost": 0.01563
+            },
+            {
+                "request_id": "chatcmpl-A7ZQsQeDX0JIfDhJvWl8RUulKmkgq",
+                "timestamp": "2024-09-14T22:37:42Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 195,
+                "output_tokens": 1,
+                "total_tokens": 196,
+                "cost": 0.00591
+            },
+            {
+                "request_id": "chatcmpl-A7ZQsNWaD7O895Z34pPjvkiapPjXu",
+                "timestamp": "2024-09-14T22:37:42Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 453,
+                "output_tokens": 110,
+                "total_tokens": 563,
+                "cost": 0.02019
+            },
+            {
+                "request_id": "chatcmpl-A7ZQvAOzDtWdpDKFApdjqKy8Q1CHF",
+                "timestamp": "2024-09-14T22:37:45Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 251,
+                "output_tokens": 1,
+                "total_tokens": 252,
+                "cost": 0.0075899999999999995
+            },
+            {
+                "request_id": "chatcmpl-A7ZQvuWk4A9OtfjwtY5ZSbRUcGfFY",
+                "timestamp": "2024-09-14T22:37:45Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 634,
+                "output_tokens": 279,
+                "total_tokens": 913,
+                "cost": 0.03576
+            },
+            {
+                "request_id": "chatcmpl-A7ZR4idxopM6JoBXUWDpcQwAPNtv8",
+                "timestamp": "2024-09-14T22:37:54Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 432,
+                "output_tokens": 1,
+                "total_tokens": 433,
+                "cost": 0.013019999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZR5FNJZ6kssM7UHfGUdfRb5NJ7Q",
+                "timestamp": "2024-09-14T22:37:55Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 457,
+                "output_tokens": 106,
+                "total_tokens": 563,
+                "cost": 0.020069999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7ZR8avpxiwQsysH9UCut54GkEROY",
+                "timestamp": "2024-09-14T22:37:58Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 255,
+                "output_tokens": 1,
+                "total_tokens": 256,
+                "cost": 0.00771
+            },
+            {
+                "request_id": "chatcmpl-A7ZR9jmrXe260lVfwHSnfbUFml5Ts",
+                "timestamp": "2024-09-14T22:37:59Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 400,
+                "output_tokens": 88,
+                "total_tokens": 488,
+                "cost": 0.01728
+            },
+            {
+                "request_id": "chatcmpl-A7ZRC8brBH7JNo9AnfyIBQuVfYibP",
+                "timestamp": "2024-09-14T22:38:02Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 198,
+                "output_tokens": 1,
+                "total_tokens": 199,
+                "cost": 0.006
+            },
+            {
+                "request_id": "chatcmpl-A7ZRCJBbEiBbmssq2IsIuhaTGei2v",
+                "timestamp": "2024-09-14T22:38:02Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 428,
+                "output_tokens": 99,
+                "total_tokens": 527,
+                "cost": 0.018779999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7ZRFuWkdcG30gJAHVS7WNsl3MB12",
+                "timestamp": "2024-09-14T22:38:05Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 226,
+                "output_tokens": 1,
+                "total_tokens": 227,
+                "cost": 0.00684
+            },
+            {
+                "request_id": "chatcmpl-A7ZRG5qQSH7HFeDTdtMku3VgcF3hK",
+                "timestamp": "2024-09-14T22:38:06Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 408,
+                "output_tokens": 121,
+                "total_tokens": 529,
+                "cost": 0.019499999999999997
+            },
+            {
+                "request_id": "chatcmpl-A7ZRKOoh5MNFoDmCFmutwAKF7SsFS",
+                "timestamp": "2024-09-14T22:38:10Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 206,
+                "output_tokens": 1,
+                "total_tokens": 207,
+                "cost": 0.00624
+            },
+            {
+                "request_id": "chatcmpl-A7ZRKthm6vbesQBMfVgqA8pGfwlBu",
+                "timestamp": "2024-09-14T22:38:10Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 508,
+                "output_tokens": 119,
+                "total_tokens": 627,
+                "cost": 0.02238
+            },
+            {
+                "request_id": "chatcmpl-A7ZROiWUbRLwMKwWrWDxetpq6dokV",
+                "timestamp": "2024-09-14T22:38:14Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 306,
+                "output_tokens": 1,
+                "total_tokens": 307,
+                "cost": 0.009239999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7ZRPEvkoXakGawse8GUj1sWTy5eY",
+                "timestamp": "2024-09-14T22:38:15Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 622,
+                "output_tokens": 284,
+                "total_tokens": 906,
+                "cost": 0.035699999999999996
+            },
+            {
+                "request_id": "chatcmpl-A7ZRXgaUqs1KFLJ6QjvcfvPBHMDIZ",
+                "timestamp": "2024-09-14T22:38:23Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 420,
+                "output_tokens": 1,
+                "total_tokens": 421,
+                "cost": 0.012659999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7ZRXf4ykNQjAtmBKaNCtFkrWRuIk",
+                "timestamp": "2024-09-14T22:38:23Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 506,
+                "output_tokens": 184,
+                "total_tokens": 690,
+                "cost": 0.02622
+            },
+            {
+                "request_id": "chatcmpl-A7ZRdf4iGrA2RLJZO83nlVBTHim1i",
+                "timestamp": "2024-09-14T22:38:29Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 304,
+                "output_tokens": 1,
+                "total_tokens": 305,
+                "cost": 0.009179999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZReu5Vzzo7FepK2i3rsTrO3Shuu",
+                "timestamp": "2024-09-14T22:38:30Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 462,
+                "output_tokens": 165,
+                "total_tokens": 627,
+                "cost": 0.023760000000000003
+            },
+            {
+                "request_id": "chatcmpl-A7ZRkrQMZJqwOKDbO7WravOASa4qt",
+                "timestamp": "2024-09-14T22:38:36Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 260,
+                "output_tokens": 1,
+                "total_tokens": 261,
+                "cost": 0.007859999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZRk7ab60yD3ijCaQUEpYdthp1RZ",
+                "timestamp": "2024-09-14T22:38:36Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 468,
+                "output_tokens": 127,
+                "total_tokens": 595,
+                "cost": 0.02166
+            },
+            {
+                "request_id": "chatcmpl-A7ZRoqDNavkONZSBSUCCjJLv0uX5t",
+                "timestamp": "2024-09-14T22:38:40Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 266,
+                "output_tokens": 1,
+                "total_tokens": 267,
+                "cost": 0.00804
+            },
+            {
+                "request_id": "chatcmpl-A7ZRpRv5mXeXRYVfSMMLPP8SGgqpJ",
+                "timestamp": "2024-09-14T22:38:41Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 568,
+                "output_tokens": 202,
+                "total_tokens": 770,
+                "cost": 0.02916
+            },
+            {
+                "request_id": "chatcmpl-A7ZRwJ7szxrkUyihEiMM6urtU6xqF",
+                "timestamp": "2024-09-14T22:38:48Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 366,
+                "output_tokens": 1,
+                "total_tokens": 367,
+                "cost": 0.01104
+            },
+            {
+                "request_id": "chatcmpl-A7ZRw07VoY1CZh4V6oj5koRL7f5tG",
+                "timestamp": "2024-09-14T22:38:48Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 640,
+                "output_tokens": 189,
+                "total_tokens": 829,
+                "cost": 0.030539999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7ZS3CbXPf1DYkooMM1xCyJwpIij2",
+                "timestamp": "2024-09-14T22:38:55Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 438,
+                "output_tokens": 1,
+                "total_tokens": 439,
+                "cost": 0.013199999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7ZS3uXm3oEzOFVl7qpN2IdO9x36f",
+                "timestamp": "2024-09-14T22:38:55Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 531,
+                "output_tokens": 161,
+                "total_tokens": 692,
+                "cost": 0.02559
+            },
+            {
+                "request_id": "chatcmpl-A7ZS8pIX8QwPEkF0VzLJJOw8MG41F",
+                "timestamp": "2024-09-14T22:39:00Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 329,
+                "output_tokens": 1,
+                "total_tokens": 330,
+                "cost": 0.00993
+            },
+            {
+                "request_id": "chatcmpl-A7ZS9NHOh5V0pmrjA543q0meEVsDi",
+                "timestamp": "2024-09-14T22:39:01Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 467,
+                "output_tokens": 155,
+                "total_tokens": 622,
+                "cost": 0.023309999999999997
+            },
+            {
+                "request_id": "chatcmpl-A7ZSEWKo2HcLcWEWhtP1AN10AvjzY",
+                "timestamp": "2024-09-14T22:39:06Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 265,
+                "output_tokens": 1,
+                "total_tokens": 266,
+                "cost": 0.00801
+            },
+            {
+                "request_id": "chatcmpl-A7ZSEgamHsgruBjmfBHg3R3zRWGeg",
+                "timestamp": "2024-09-14T22:39:06Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 294,
+                "output_tokens": 18,
+                "total_tokens": 312,
+                "cost": 0.009899999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZSFIvGVXdGqLxTns9XFYlBxsAUG",
+                "timestamp": "2024-09-14T22:39:07Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 92,
+                "output_tokens": 1,
+                "total_tokens": 93,
+                "cost": 0.00282
+            },
+            {
+                "request_id": "chatcmpl-A7ZSI0hUmz1bLY8taJ6rwsI7gh6Mc",
+                "timestamp": "2024-09-14T22:39:10Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 311,
+                "output_tokens": 20,
+                "total_tokens": 331,
+                "cost": 0.01053
+            },
+            {
+                "request_id": "chatcmpl-A7ZSJtFbqh9P0l4mVm9SDzflz2Y0i",
+                "timestamp": "2024-09-14T22:39:11Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 109,
+                "output_tokens": 1,
+                "total_tokens": 110,
+                "cost": 0.00333
+            },
+            {
+                "request_id": "chatcmpl-A7ZSJW09yu6BSDB6j1sCbMRmvDzXp",
+                "timestamp": "2024-09-14T22:39:11Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 561,
+                "output_tokens": 184,
+                "total_tokens": 745,
+                "cost": 0.02787
+            },
+            {
+                "request_id": "chatcmpl-A7ZSPivrd1FE5HiZwBo1UwFmQPIrH",
+                "timestamp": "2024-09-14T22:39:17Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 359,
+                "output_tokens": 1,
+                "total_tokens": 360,
+                "cost": 0.010829999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7ZSPcES8NUIdKqYnUf3nZ48FP0is",
+                "timestamp": "2024-09-14T22:39:17Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 330,
+                "output_tokens": 23,
+                "total_tokens": 353,
+                "cost": 0.01128
+            },
+            {
+                "request_id": "chatcmpl-A7ZSQ6G4D8QgDSMRLjMMPrxYOGDzp",
+                "timestamp": "2024-09-14T22:39:18Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 128,
+                "output_tokens": 1,
+                "total_tokens": 129,
+                "cost": 0.0039000000000000003
+            },
+            {
+                "request_id": "chatcmpl-A7ZSRRmYJ3SykJMQTlz7CNZSNctLc",
+                "timestamp": "2024-09-14T22:39:19Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 542,
+                "output_tokens": 43,
+                "total_tokens": 585,
+                "cost": 0.01884
+            },
+            {
+                "request_id": "chatcmpl-A7ZST1vtx12bFqUyEOT58ByR4Reyi",
+                "timestamp": "2024-09-14T22:39:21Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 340,
+                "output_tokens": 1,
+                "total_tokens": 341,
+                "cost": 0.01026
+            },
+            {
+                "request_id": "chatcmpl-A7ZSTQ9jGW4NiHiKEGBU1WA2jaydr",
+                "timestamp": "2024-09-14T22:39:21Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 590,
+                "output_tokens": 144,
+                "total_tokens": 734,
+                "cost": 0.026339999999999995
+            },
+            {
+                "request_id": "chatcmpl-A7ZSYS2O4SiYivzfTlMgFaDkRwXf2",
+                "timestamp": "2024-09-14T22:39:26Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 388,
+                "output_tokens": 1,
+                "total_tokens": 389,
+                "cost": 0.011699999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZSZIZEvNqRZzk1i1ONbgXYrkGGT",
+                "timestamp": "2024-09-14T22:39:27Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 506,
+                "output_tokens": 155,
+                "total_tokens": 661,
+                "cost": 0.02448
+            },
+            {
+                "request_id": "chatcmpl-A7ZSdsQ48SRhD6pnlLLO6ASjk42EJ",
+                "timestamp": "2024-09-14T22:39:31Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 304,
+                "output_tokens": 1,
+                "total_tokens": 305,
+                "cost": 0.009179999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZSe2VL8IGTpQjjySQIAbRKXauOo",
+                "timestamp": "2024-09-14T22:39:32Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 432,
+                "output_tokens": 88,
+                "total_tokens": 520,
+                "cost": 0.01824
+            },
+            {
+                "request_id": "chatcmpl-A7ZSi6J6emrJcRkdCEojBJXQNTKiD",
+                "timestamp": "2024-09-14T22:39:36Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 230,
+                "output_tokens": 1,
+                "total_tokens": 231,
+                "cost": 0.00696
+            },
+            {
+                "request_id": "chatcmpl-A7ZSiW5GuAEMHzQ9L2zlbjpMkVnhV",
+                "timestamp": "2024-09-14T22:39:36Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 564,
+                "output_tokens": 199,
+                "total_tokens": 763,
+                "cost": 0.028859999999999997
+            },
+            {
+                "request_id": "chatcmpl-A7ZSpT6geNEVYmiW2nJkjMonOufZI",
+                "timestamp": "2024-09-14T22:39:43Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 362,
+                "output_tokens": 1,
+                "total_tokens": 363,
+                "cost": 0.01092
+            },
+            {
+                "request_id": "chatcmpl-A7ZSq95Q8LKUZE1gQKPvlrW8vP45e",
+                "timestamp": "2024-09-14T22:39:44Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 628,
+                "output_tokens": 229,
+                "total_tokens": 857,
+                "cost": 0.03258
+            },
+            {
+                "request_id": "chatcmpl-A7ZSyHQUGVIH2WhqPPWO3PQELd9pw",
+                "timestamp": "2024-09-14T22:39:52Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 426,
+                "output_tokens": 1,
+                "total_tokens": 427,
+                "cost": 0.012839999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZSyjBBy0w9cZ83EhdkKVVmrnbuu",
+                "timestamp": "2024-09-14T22:39:52Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 400,
+                "output_tokens": 67,
+                "total_tokens": 467,
+                "cost": 0.01602
+            },
+            {
+                "request_id": "chatcmpl-A7ZT03FTS6WSoAAE5L8EHWTfJEw2n",
+                "timestamp": "2024-09-14T22:39:54Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 198,
+                "output_tokens": 1,
+                "total_tokens": 199,
+                "cost": 0.006
+            },
+            {
+                "request_id": "chatcmpl-A7ZT1SX0fS97a2p8YGHWB4vQgKGeD",
+                "timestamp": "2024-09-14T22:39:55Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 393,
+                "output_tokens": 100,
+                "total_tokens": 493,
+                "cost": 0.01779
+            },
+            {
+                "request_id": "chatcmpl-A7ZT4L9qNpIiVdFUFKZ3OT1q0rvmf",
+                "timestamp": "2024-09-14T22:39:58Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 191,
+                "output_tokens": 1,
+                "total_tokens": 192,
+                "cost": 0.00579
+            },
+            {
+                "request_id": "chatcmpl-A7ZT4S6ynkOL9X0UUPxu2xdyG6vDN",
+                "timestamp": "2024-09-14T22:39:58Z",
+                "model": "gpt-4-0613",
+                "task": "clean text",
+                "input_tokens": 596,
+                "output_tokens": 210,
+                "total_tokens": 806,
+                "cost": 0.03048
+            },
+            {
+                "request_id": "chatcmpl-A7ZTBYMSwam3gGpXQKk6XIRyyzGLJ",
+                "timestamp": "2024-09-14T22:40:05Z",
+                "model": "gpt-4-0613",
+                "task": "count sentences",
+                "input_tokens": 394,
+                "output_tokens": 1,
+                "total_tokens": 395,
+                "cost": 0.01188
+            }
+        ],
+        "usage_count": {
+            "total_number_of_entries": 178,
+            "total_input_tokens": 65996,
+            "total_output_tokens": 12313,
+            "total_tokens": 78309,
+            "total_cost": 2.7186599999999994
+        }
+    },
+    "gpt-3.5-turbo": {
+        "log_entries": [
+            {
+                "request_id": "chatcmpl-A7ZeNJ02OvGi3TIcetadYLP4Je7K7",
+                "timestamp": "2024-09-14T22:51:39Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 394,
+                "output_tokens": 103,
+                "total_tokens": 497,
+                "cost": 1.4909999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZeOGSjJ4KdvJS5hARGrXNi3fDOp",
+                "timestamp": "2024-09-14T22:51:40Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 192,
+                "output_tokens": 10,
+                "total_tokens": 202,
+                "cost": 0.6060000000000001
+            },
+            {
+                "request_id": "chatcmpl-A7ZeOd02zunUvr87lCyRJ5yfCseTT",
+                "timestamp": "2024-09-14T22:51:40Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 409,
+                "output_tokens": 98,
+                "total_tokens": 507,
+                "cost": 1.521
+            },
+            {
+                "request_id": "chatcmpl-A7ZePqMgPM9LPbj3ryZ3wZsSvsMlq",
+                "timestamp": "2024-09-14T22:51:41Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 207,
+                "output_tokens": 1,
+                "total_tokens": 208,
+                "cost": 0.624
+            },
+            {
+                "request_id": "chatcmpl-A7ZeQGxYLUN7hgW2AeL92oVevHf6m",
+                "timestamp": "2024-09-14T22:51:42Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 399,
+                "output_tokens": 107,
+                "total_tokens": 506,
+                "cost": 1.518
+            },
+            {
+                "request_id": "chatcmpl-A7ZeRYIraOoX7GMXlzjgOeZUmn33i",
+                "timestamp": "2024-09-14T22:51:43Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 197,
+                "output_tokens": 1,
+                "total_tokens": 198,
+                "cost": 0.594
+            },
+            {
+                "request_id": "chatcmpl-A7ZeRBLEDtC5VqRmoB5CncBDPhGqZ",
+                "timestamp": "2024-09-14T22:51:43Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 499,
+                "output_tokens": 199,
+                "total_tokens": 698,
+                "cost": 2.094
+            },
+            {
+                "request_id": "chatcmpl-A7ZeTHXdZSxWtFtOObE8ZOrxxlERI",
+                "timestamp": "2024-09-14T22:51:45Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 297,
+                "output_tokens": 1,
+                "total_tokens": 298,
+                "cost": 0.894
+            },
+            {
+                "request_id": "chatcmpl-A7ZeUgb6pl7nBQGSFqcTN4N84D8J8",
+                "timestamp": "2024-09-14T22:51:46Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 379,
+                "output_tokens": 60,
+                "total_tokens": 439,
+                "cost": 1.317
+            },
+            {
+                "request_id": "chatcmpl-A7ZeUMdEF3VW2Ohetv55JUFLCxE4H",
+                "timestamp": "2024-09-14T22:51:46Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 177,
+                "output_tokens": 1,
+                "total_tokens": 178,
+                "cost": 0.5339999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZeWCQb6tAebLxw5hDTIoJfYIGow",
+                "timestamp": "2024-09-14T22:51:48Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 396,
+                "output_tokens": 103,
+                "total_tokens": 499,
+                "cost": 1.497
+            },
+            {
+                "request_id": "chatcmpl-A7ZeYL1ilqMHUdussW8xh9dcn4asZ",
+                "timestamp": "2024-09-14T22:51:50Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 194,
+                "output_tokens": 1,
+                "total_tokens": 195,
+                "cost": 0.5850000000000001
+            },
+            {
+                "request_id": "chatcmpl-A7ZeYeiCY62RmD2pdr2E8pKLhspme",
+                "timestamp": "2024-09-14T22:51:50Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 652,
+                "output_tokens": 280,
+                "total_tokens": 932,
+                "cost": 2.7960000000000003
+            },
+            {
+                "request_id": "chatcmpl-A7ZecOMoAZZmv0S7C8m3oKC7A2hOx",
+                "timestamp": "2024-09-14T22:51:54Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 450,
+                "output_tokens": 1,
+                "total_tokens": 451,
+                "cost": 1.353
+            },
+            {
+                "request_id": "chatcmpl-A7Zecic71EM8CzfsPVS9A1jIm0WSG",
+                "timestamp": "2024-09-14T22:51:54Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 544,
+                "output_tokens": 239,
+                "total_tokens": 783,
+                "cost": 2.349
+            },
+            {
+                "request_id": "chatcmpl-A7ZeesYMt9iqQSLV8y2NsilGWMJjq",
+                "timestamp": "2024-09-14T22:51:56Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 342,
+                "output_tokens": 1,
+                "total_tokens": 343,
+                "cost": 1.029
+            },
+            {
+                "request_id": "chatcmpl-A7ZefKLr5nUml5SCcRV1vpgewoq2t",
+                "timestamp": "2024-09-14T22:51:57Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 436,
+                "output_tokens": 146,
+                "total_tokens": 582,
+                "cost": 1.746
+            },
+            {
+                "request_id": "chatcmpl-A7Zegess4gpjDceBEPLXLotZH64LG",
+                "timestamp": "2024-09-14T22:51:58Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 234,
+                "output_tokens": 1,
+                "total_tokens": 235,
+                "cost": 0.7050000000000001
+            },
+            {
+                "request_id": "chatcmpl-A7Zegp6BvvzrQ7jYR9gH3CqVBJXsj",
+                "timestamp": "2024-09-14T22:51:58Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 491,
+                "output_tokens": 163,
+                "total_tokens": 654,
+                "cost": 1.9619999999999997
+            },
+            {
+                "request_id": "chatcmpl-A7ZejwDCC1qyrCDNEtzqy2azuHVss",
+                "timestamp": "2024-09-14T22:52:01Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 289,
+                "output_tokens": 1,
+                "total_tokens": 290,
+                "cost": 0.87
+            },
+            {
+                "request_id": "chatcmpl-A7ZejgVlQWyG0sVDZkq1IjjunMUg1",
+                "timestamp": "2024-09-14T22:52:01Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 524,
+                "output_tokens": 228,
+                "total_tokens": 752,
+                "cost": 2.2560000000000002
+            },
+            {
+                "request_id": "chatcmpl-A7ZemJK1WpCVlI8HCJ4MJpFxDnDZ6",
+                "timestamp": "2024-09-14T22:52:04Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 322,
+                "output_tokens": 1,
+                "total_tokens": 323,
+                "cost": 0.969
+            },
+            {
+                "request_id": "chatcmpl-A7ZemIhKV4R7xanfEq7dkUOQCvn67",
+                "timestamp": "2024-09-14T22:52:04Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 485,
+                "output_tokens": 193,
+                "total_tokens": 678,
+                "cost": 2.034
+            },
+            {
+                "request_id": "chatcmpl-A7ZeodwyaiZSjaJrF1lUBLiiLG8Rr",
+                "timestamp": "2024-09-14T22:52:06Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 283,
+                "output_tokens": 1,
+                "total_tokens": 284,
+                "cost": 0.852
+            },
+            {
+                "request_id": "chatcmpl-A7ZepO9EPrKcFr1nhAUs5xFOaFUGP",
+                "timestamp": "2024-09-14T22:52:07Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 496,
+                "output_tokens": 195,
+                "total_tokens": 691,
+                "cost": 2.073
+            },
+            {
+                "request_id": "chatcmpl-A7ZerViGhiEzcw63L9k3IWhgMmbWI",
+                "timestamp": "2024-09-14T22:52:09Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 294,
+                "output_tokens": 1,
+                "total_tokens": 295,
+                "cost": 0.8849999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZercrToB3lwlgq2MqPMcITeq6uW",
+                "timestamp": "2024-09-14T22:52:09Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 343,
+                "output_tokens": 46,
+                "total_tokens": 389,
+                "cost": 1.1670000000000003
+            },
+            {
+                "request_id": "chatcmpl-A7ZesJ3QKnVxRhAX7VJ38I5TfHxvm",
+                "timestamp": "2024-09-14T22:52:10Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 141,
+                "output_tokens": 1,
+                "total_tokens": 142,
+                "cost": 0.42599999999999993
+            },
+            {
+                "request_id": "chatcmpl-A7ZetLeW3dZnpxhLuFTR7HmrAi1YH",
+                "timestamp": "2024-09-14T22:52:11Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 397,
+                "output_tokens": 61,
+                "total_tokens": 458,
+                "cost": 1.374
+            },
+            {
+                "request_id": "chatcmpl-A7ZeudYyMjkLNnOHAPt91C3TG8G0R",
+                "timestamp": "2024-09-14T22:52:12Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 195,
+                "output_tokens": 1,
+                "total_tokens": 196,
+                "cost": 0.588
+            },
+            {
+                "request_id": "chatcmpl-A7Zeu2j4NsqougWm5OubNF4xEd6FH",
+                "timestamp": "2024-09-14T22:52:12Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 453,
+                "output_tokens": 149,
+                "total_tokens": 602,
+                "cost": 1.806
+            },
+            {
+                "request_id": "chatcmpl-A7Zev34YGgnGuBG0pvaJUmZeiDF2y",
+                "timestamp": "2024-09-14T22:52:13Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 251,
+                "output_tokens": 1,
+                "total_tokens": 252,
+                "cost": 0.756
+            },
+            {
+                "request_id": "chatcmpl-A7ZewRizJZKVAHajjLt2AHvhgXxru",
+                "timestamp": "2024-09-14T22:52:14Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 634,
+                "output_tokens": 286,
+                "total_tokens": 920,
+                "cost": 2.76
+            },
+            {
+                "request_id": "chatcmpl-A7Zf0bVJMgWB2LflkkqJdv6KZR6iH",
+                "timestamp": "2024-09-14T22:52:18Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 432,
+                "output_tokens": 1,
+                "total_tokens": 433,
+                "cost": 1.299
+            },
+            {
+                "request_id": "chatcmpl-A7Zf0oE5SfXFYw8u7CQddoK6PJ3Oj",
+                "timestamp": "2024-09-14T22:52:18Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 457,
+                "output_tokens": 164,
+                "total_tokens": 621,
+                "cost": 1.863
+            },
+            {
+                "request_id": "chatcmpl-A7Zf3nih51GOPubr1SHp07bnhsNXx",
+                "timestamp": "2024-09-14T22:52:21Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 255,
+                "output_tokens": 1,
+                "total_tokens": 256,
+                "cost": 0.768
+            },
+            {
+                "request_id": "chatcmpl-A7Zf39wlp8olQyAwP2yvIm6NUnzdw",
+                "timestamp": "2024-09-14T22:52:21Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 400,
+                "output_tokens": 104,
+                "total_tokens": 504,
+                "cost": 1.5120000000000002
+            },
+            {
+                "request_id": "chatcmpl-A7Zf4vEx4vjMRziSwbhroBaqAdsu5",
+                "timestamp": "2024-09-14T22:52:22Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 198,
+                "output_tokens": 1,
+                "total_tokens": 199,
+                "cost": 0.5970000000000001
+            },
+            {
+                "request_id": "chatcmpl-A7Zf54eIHEwudDkLjIkRUJ2mWQTtZ",
+                "timestamp": "2024-09-14T22:52:23Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 428,
+                "output_tokens": 135,
+                "total_tokens": 563,
+                "cost": 1.689
+            },
+            {
+                "request_id": "chatcmpl-A7Zf7jiKXXiTj5iTj1xN7wvFnAth4",
+                "timestamp": "2024-09-14T22:52:25Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 226,
+                "output_tokens": 1,
+                "total_tokens": 227,
+                "cost": 0.681
+            },
+            {
+                "request_id": "chatcmpl-A7Zf7xnB9ydA1d2kRxQUwdbuMSTpS",
+                "timestamp": "2024-09-14T22:52:25Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 408,
+                "output_tokens": 116,
+                "total_tokens": 524,
+                "cost": 1.572
+            },
+            {
+                "request_id": "chatcmpl-A7Zf99XJ4RjZIVV5OUVHdnCYIdaDf",
+                "timestamp": "2024-09-14T22:52:27Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 206,
+                "output_tokens": 1,
+                "total_tokens": 207,
+                "cost": 0.621
+            },
+            {
+                "request_id": "chatcmpl-A7Zf9gjWBIbKlZD3AxedBRI9w6aTS",
+                "timestamp": "2024-09-14T22:52:27Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 508,
+                "output_tokens": 194,
+                "total_tokens": 702,
+                "cost": 2.106
+            },
+            {
+                "request_id": "chatcmpl-A7ZfBwiOTHm5PJTDQ1d6g0g04nmFm",
+                "timestamp": "2024-09-14T22:52:29Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 306,
+                "output_tokens": 1,
+                "total_tokens": 307,
+                "cost": 0.9209999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZfBgUZy2Ixhardm96tTij9j5MQ5",
+                "timestamp": "2024-09-14T22:52:29Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 622,
+                "output_tokens": 249,
+                "total_tokens": 871,
+                "cost": 2.613
+            },
+            {
+                "request_id": "chatcmpl-A7ZfE6Tcoo2dnhU1rV6KTqxQUAsn6",
+                "timestamp": "2024-09-14T22:52:32Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 420,
+                "output_tokens": 1,
+                "total_tokens": 421,
+                "cost": 1.263
+            },
+            {
+                "request_id": "chatcmpl-A7ZfFGWPGHN9dUYd581r2UHof0soD",
+                "timestamp": "2024-09-14T22:52:33Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 506,
+                "output_tokens": 209,
+                "total_tokens": 715,
+                "cost": 2.145
+            },
+            {
+                "request_id": "chatcmpl-A7ZfHlHzJxF236qarmOphoOubk2YA",
+                "timestamp": "2024-09-14T22:52:35Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 304,
+                "output_tokens": 1,
+                "total_tokens": 305,
+                "cost": 0.9149999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZfH6Dc40cSwtwMmWdCkU1egoitq",
+                "timestamp": "2024-09-14T22:52:35Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 462,
+                "output_tokens": 163,
+                "total_tokens": 625,
+                "cost": 1.875
+            },
+            {
+                "request_id": "chatcmpl-A7ZfJig0DP3fOshMGUhQvvoPTuQwp",
+                "timestamp": "2024-09-14T22:52:37Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 260,
+                "output_tokens": 1,
+                "total_tokens": 261,
+                "cost": 0.783
+            },
+            {
+                "request_id": "chatcmpl-A7ZfKsp7NlBlrA1hCkqQcQMjtb9Iv",
+                "timestamp": "2024-09-14T22:52:38Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 468,
+                "output_tokens": 159,
+                "total_tokens": 627,
+                "cost": 1.8810000000000002
+            },
+            {
+                "request_id": "chatcmpl-A7ZfMUDl1PmuzVSonMUU35ZOvZvwt",
+                "timestamp": "2024-09-14T22:52:40Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 266,
+                "output_tokens": 1,
+                "total_tokens": 267,
+                "cost": 0.801
+            },
+            {
+                "request_id": "chatcmpl-A7ZfMZmUpggtU0ewR4f7OfKRZvBsb",
+                "timestamp": "2024-09-14T22:52:40Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 568,
+                "output_tokens": 236,
+                "total_tokens": 804,
+                "cost": 2.412
+            },
+            {
+                "request_id": "chatcmpl-A7ZfQ4KNslT1ywUFW5sZpFdJsoDSY",
+                "timestamp": "2024-09-14T22:52:44Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 366,
+                "output_tokens": 1,
+                "total_tokens": 367,
+                "cost": 1.1009999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7ZfQosXz2yg8GFsYJr0YzN4UTMf7",
+                "timestamp": "2024-09-14T22:52:44Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 640,
+                "output_tokens": 321,
+                "total_tokens": 961,
+                "cost": 2.883
+            },
+            {
+                "request_id": "chatcmpl-A7ZfUJX5HWbhkFkmOggljJJH3J5pY",
+                "timestamp": "2024-09-14T22:52:48Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 438,
+                "output_tokens": 1,
+                "total_tokens": 439,
+                "cost": 1.317
+            },
+            {
+                "request_id": "chatcmpl-A7ZfVqmDjbyNX0CiVrDQinfpOyYA8",
+                "timestamp": "2024-09-14T22:52:49Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 531,
+                "output_tokens": 219,
+                "total_tokens": 750,
+                "cost": 2.25
+            },
+            {
+                "request_id": "chatcmpl-A7ZfXz2ZoYySGFnYz9OX0VfQ6886k",
+                "timestamp": "2024-09-14T22:52:51Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 329,
+                "output_tokens": 1,
+                "total_tokens": 330,
+                "cost": 0.9900000000000001
+            },
+            {
+                "request_id": "chatcmpl-A7ZfXpS0e57q0BI4LE9C07sKEMIYZ",
+                "timestamp": "2024-09-14T22:52:51Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 467,
+                "output_tokens": 159,
+                "total_tokens": 626,
+                "cost": 1.8780000000000001
+            },
+            {
+                "request_id": "chatcmpl-A7ZfZMfy01iBc8YPc2zHQ530hj3xy",
+                "timestamp": "2024-09-14T22:52:53Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 265,
+                "output_tokens": 1,
+                "total_tokens": 266,
+                "cost": 0.798
+            },
+            {
+                "request_id": "chatcmpl-A7ZfZN09ujht0lXWJuCemsUYj3Bvn",
+                "timestamp": "2024-09-14T22:52:53Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 294,
+                "output_tokens": 15,
+                "total_tokens": 309,
+                "cost": 0.9269999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7Zfa8f5QSXVk0zwFnjuFMDf0qEmP",
+                "timestamp": "2024-09-14T22:52:54Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 92,
+                "output_tokens": 1,
+                "total_tokens": 93,
+                "cost": 0.279
+            },
+            {
+                "request_id": "chatcmpl-A7Zfa0NjhLaTsJVVAgtNz9H1ykKfo",
+                "timestamp": "2024-09-14T22:52:54Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 311,
+                "output_tokens": 21,
+                "total_tokens": 332,
+                "cost": 0.996
+            },
+            {
+                "request_id": "chatcmpl-A7ZfbUYdZAJJKqIAqFmqMdLuF8njO",
+                "timestamp": "2024-09-14T22:52:55Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 109,
+                "output_tokens": 1,
+                "total_tokens": 110,
+                "cost": 0.33
+            },
+            {
+                "request_id": "chatcmpl-A7ZfbnQ54Udp6CgpoHa8LMaCw8fBg",
+                "timestamp": "2024-09-14T22:52:55Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 561,
+                "output_tokens": 274,
+                "total_tokens": 835,
+                "cost": 2.5050000000000003
+            },
+            {
+                "request_id": "chatcmpl-A7Zfd1o66Ae4a7an9qXkGOa5uncdt",
+                "timestamp": "2024-09-14T22:52:57Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 359,
+                "output_tokens": 1,
+                "total_tokens": 360,
+                "cost": 1.0799999999999998
+            },
+            {
+                "request_id": "chatcmpl-A7ZfeFkXXq9ek1KLwAxGKdPn5tmO1",
+                "timestamp": "2024-09-14T22:52:58Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 330,
+                "output_tokens": 22,
+                "total_tokens": 352,
+                "cost": 1.056
+            },
+            {
+                "request_id": "chatcmpl-A7ZfeiXLXRbocHrFB4e6rThi8LZmk",
+                "timestamp": "2024-09-14T22:52:58Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 128,
+                "output_tokens": 1,
+                "total_tokens": 129,
+                "cost": 0.387
+            },
+            {
+                "request_id": "chatcmpl-A7ZfeGBFeKs9Sq7q8PPGMbAyMQ9CO",
+                "timestamp": "2024-09-14T22:52:58Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 542,
+                "output_tokens": 243,
+                "total_tokens": 785,
+                "cost": 2.355
+            },
+            {
+                "request_id": "chatcmpl-A7ZfhUqHdaOQt4OO4phDUNNiLExCn",
+                "timestamp": "2024-09-14T22:53:01Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 340,
+                "output_tokens": 1,
+                "total_tokens": 341,
+                "cost": 1.023
+            },
+            {
+                "request_id": "chatcmpl-A7Zfimz7Avhsx0ZTXowA4tCHJ0z5L",
+                "timestamp": "2024-09-14T22:53:02Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 590,
+                "output_tokens": 295,
+                "total_tokens": 885,
+                "cost": 2.6550000000000002
+            },
+            {
+                "request_id": "chatcmpl-A7ZfkGNqCv6pdrYzIzzbSW1uf9oYn",
+                "timestamp": "2024-09-14T22:53:04Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 388,
+                "output_tokens": 1,
+                "total_tokens": 389,
+                "cost": 1.167
+            },
+            {
+                "request_id": "chatcmpl-A7ZflobcpGhPQymxoYBz0kz6TB1PK",
+                "timestamp": "2024-09-14T22:53:05Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 506,
+                "output_tokens": 209,
+                "total_tokens": 715,
+                "cost": 2.145
+            },
+            {
+                "request_id": "chatcmpl-A7ZfnjCXHb3XX32xF4tIqdfhmtxuW",
+                "timestamp": "2024-09-14T22:53:07Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 304,
+                "output_tokens": 1,
+                "total_tokens": 305,
+                "cost": 0.9149999999999999
+            },
+            {
+                "request_id": "chatcmpl-A7ZfnmAFFaiDuI4JN8s01EdSExChA",
+                "timestamp": "2024-09-14T22:53:07Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 432,
+                "output_tokens": 136,
+                "total_tokens": 568,
+                "cost": 1.7040000000000002
+            },
+            {
+                "request_id": "chatcmpl-A7ZfpejlMgyTGV72TWxAzsTFKVkU6",
+                "timestamp": "2024-09-14T22:53:09Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 230,
+                "output_tokens": 1,
+                "total_tokens": 231,
+                "cost": 0.6930000000000001
+            },
+            {
+                "request_id": "chatcmpl-A7Zfpsv31npHCmPRuK6WeDj7KjQE5",
+                "timestamp": "2024-09-14T22:53:09Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 564,
+                "output_tokens": 263,
+                "total_tokens": 827,
+                "cost": 2.481
+            },
+            {
+                "request_id": "chatcmpl-A7ZfsJAEUP7IT1xlWXktgOpGtKu9S",
+                "timestamp": "2024-09-14T22:53:12Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 362,
+                "output_tokens": 1,
+                "total_tokens": 363,
+                "cost": 1.0889999999999997
+            },
+            {
+                "request_id": "chatcmpl-A7ZfslPnPNVTS4SWZZZ5r1lW58VOV",
+                "timestamp": "2024-09-14T22:53:12Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 628,
+                "output_tokens": 315,
+                "total_tokens": 943,
+                "cost": 2.8289999999999997
+            },
+            {
+                "request_id": "chatcmpl-A7Zfw7qsUVB86ljeuaF99Ry4JEPVt",
+                "timestamp": "2024-09-14T22:53:16Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 426,
+                "output_tokens": 1,
+                "total_tokens": 427,
+                "cost": 1.281
+            },
+            {
+                "request_id": "chatcmpl-A7ZfxvcUlfC7ZFYH44DBLvPzOE0rT",
+                "timestamp": "2024-09-14T22:53:17Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 400,
+                "output_tokens": 106,
+                "total_tokens": 506,
+                "cost": 1.5180000000000002
+            },
+            {
+                "request_id": "chatcmpl-A7ZfygWPcyrdvJwytchmIsMVqFz61",
+                "timestamp": "2024-09-14T22:53:18Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 198,
+                "output_tokens": 1,
+                "total_tokens": 199,
+                "cost": 0.5970000000000001
+            },
+            {
+                "request_id": "chatcmpl-A7ZfyAKomhfBVMzlcb28S4IljSzmm",
+                "timestamp": "2024-09-14T22:53:18Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 393,
+                "output_tokens": 102,
+                "total_tokens": 495,
+                "cost": 1.485
+            },
+            {
+                "request_id": "chatcmpl-A7Zg0NLUkaf8SJpTXdTju8T2elIDm",
+                "timestamp": "2024-09-14T22:53:20Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 191,
+                "output_tokens": 1,
+                "total_tokens": 192,
+                "cost": 0.576
+            },
+            {
+                "request_id": "chatcmpl-A7Zg0E0QV6XF7PNHs63BEHuFeDvaQ",
+                "timestamp": "2024-09-14T22:53:20Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "clean text",
+                "input_tokens": 596,
+                "output_tokens": 298,
+                "total_tokens": 894,
+                "cost": 2.6819999999999995
+            },
+            {
+                "request_id": "chatcmpl-A7Zg4R0AZwxlpth5ADDs2p7yTmboj",
+                "timestamp": "2024-09-14T22:53:24Z",
+                "model": "gpt-3.5-turbo-0125",
+                "task": "count sentences",
+                "input_tokens": 394,
+                "output_tokens": 1,
+                "total_tokens": 395,
+                "cost": 1.1849999999999998
+            }
+        ],
+        "usage_count": {
+            "total_number_of_entries": 86,
+            "total_input_tokens": 32400,
+            "total_output_tokens": 7435,
+            "total_tokens": 39835,
+            "total_cost": 119.50499999999997
+        }
+    },
+    "total_usage_count": {
+        "total_number_of_entries": 264,
+        "total_input_tokens": 98396,
+        "total_output_tokens": 19748,
+        "total_tokens": 118144,
+        "total_cost": 122.22365999999997
+    }
+}

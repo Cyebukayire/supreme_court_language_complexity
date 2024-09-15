@@ -2,6 +2,8 @@ import os
 from dotenv import load_dotenv
 from openai import OpenAI
 import json
+from datetime import datetime
+from scripts.api_usage_log import save_api_log
 
 # Load environment variables
 load_dotenv()
@@ -11,12 +13,11 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def clean_data_with_gpt_4(text: str):
     prompt = f"""
-    Clean the following text by removing all citations, abbreviations, page numbers, and any unnecessary information. 
-    Only return the cleaned text with no additional commentary or metadata.
+    Rewrite the following paragraph(s) word for word except (i) removing the periods from *all* abbreviations (for example: "e.g." becomes eg, "i.e." becomes ie, Mr. becomes Mr); (ii) replacing *all* citations with "[citation]" (example: "Smith v. Jones, 666 F.3d 18, 21-23 (C.A.1 2000)" becomes [citation]) (example: “Ante, at 1341 (internal quotation marks omitted).” becomes [citation]) (example: "Western Union Telegraph Co. v. Pennsylvania, 368 U.S. 71, 72, 82 S.Ct. 199, 7 L.Ed.2d 139 (1961)" becomes [citation]; (iii) all references to statutes become just “[statute]” (for example “Copyright Act of 1976, 17 U. S. C. § 107 (1988 ed. and Supp. IV)” becomes [statute] and “§ 107(1)F” becomes [statute]). Do not write [citation] or [statute] if there is no citation or statute. End with “[end]"
 
     Text: {text}
 
-    Response format: <cleaned_text>
+    Important: The response should be a plain text and nothing else.
     """
 
     # Use GPT-4 to process the data
@@ -27,11 +28,12 @@ def clean_data_with_gpt_4(text: str):
             {"role": "user", "content": prompt}
         ]
     )
-    
-    # Extract the response from GPT-4
-    cleaned_data = response.choices[0].message.content
 
-    return cleaned_data
+    # Save log history
+    save_api_log(data=response.to_dict(), task="clean text")
+
+    # Return clean data
+    return response.choices[0].message.content
 
 
 def count_sentences_with_gpt_4(text: str):
@@ -53,26 +55,22 @@ def count_sentences_with_gpt_4(text: str):
             {"role": "user", "content": prompt}
         ]
     )
-    
-    # Extract the response from GPT-4
-    sentence_count = response.choices[0].message.content.strip()
 
-    # Ensure the response is an integer
-    try:
-        return int(sentence_count)
+    # Save log history
+    save_api_log(data=response.to_dict(), task="count sentences")
     
-    except ValueError:
-        raise ValueError("GPT-4 did not return a valid integer.")
+    # Return sentence count
+    return response.choices[0].message.content.strip()
+
     
 
 def clean_data_with_gpt_3_5_turbo(text: str):
     prompt = f"""
-    Clean the following text by removing all citations, abbreviations, page numbers, and any unnecessary information. 
-    Only return the cleaned text with no additional commentary or metadata.
+    Rewrite the following paragraph(s) word for word except (i) removing the periods from *all* abbreviations (for example: "e.g." becomes eg, "i.e." becomes ie, Mr. becomes Mr); (ii) replacing *all* citations with "[citation]" (example: "Smith v. Jones, 666 F.3d 18, 21-23 (C.A.1 2000)" becomes [citation]) (example: “Ante, at 1341 (internal quotation marks omitted).” becomes [citation]) (example: "Western Union Telegraph Co. v. Pennsylvania, 368 U.S. 71, 72, 82 S.Ct. 199, 7 L.Ed.2d 139 (1961)" becomes [citation]; (iii) all references to statutes become just “[statute]” (for example “Copyright Act of 1976, 17 U. S. C. § 107 (1988 ed. and Supp. IV)” becomes [statute] and “§ 107(1)F” becomes [statute]). Do not write [citation] or [statute] if there is no citation or statute. End with “[end]"
 
     Text: {text}
 
-    Response format: <cleaned_text>
+    Important: The response should be a plain text and nothing else.
     """
 
     # Use GPT-3.5 Turbo to process the data
@@ -83,11 +81,12 @@ def clean_data_with_gpt_3_5_turbo(text: str):
             {"role": "user", "content": prompt}
         ]
     )
-    
-    # Extract the response from GPT-3.5 Turbo
-    cleaned_data = response.choices[0].message.content
 
-    return cleaned_data
+    # Save log history
+    save_api_log(data=response.to_dict(), task="clean text")
+    
+    # Return clean data
+    return response.choices[0].message.content
 
 
 def count_sentences_with_gpt_3_5_turbo(text: str):
@@ -109,13 +108,9 @@ def count_sentences_with_gpt_3_5_turbo(text: str):
             {"role": "user", "content": prompt}
         ]
     )
-    
-    # Extract the response from GPT-3.5 Turbo
-    sentence_count = response.choices[0].message.content.strip()
 
-    # Ensure the response is an integer
-    try:
-        return int(sentence_count)
+    # Save log history
+    save_api_log(data=response.to_dict(), task="count sentences")
     
-    except ValueError:
-        raise ValueError("GPT-3.5 Turbo did not return a valid integer.")
+    # Return sentence count
+    return response.choices[0].message.content.strip()
