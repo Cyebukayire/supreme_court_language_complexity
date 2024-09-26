@@ -4,14 +4,13 @@ import pandas as pd
 
 # Load the dataset
 input_file = 'data/casetext2022_for_gpt.csv'
-# output_file = 'data/processed_with_gpt_4_casetext2022.csv'
-output_file = 'data/processed_with_gpt_3_5_turbo_casetext2022.csv'
+output_file = 'data/processed_with_gpt_4_(2)casetext2022.csv'
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(input_file)
 
 # Apply to only first 10 rows
-df = df.head(10)
+df = df.head(50)
 
 # Initialize columns for the processed data
 df['n_sentence'] = 0
@@ -20,8 +19,8 @@ df['llm_text'] = ""
 # Process each cell in the 'text' column
 def process_cell(text):
     if len(text) > 2:  # Skip text cells of two characters or fewer
-        cleaned_text = openai.clean_data_with_gpt_3_5_turbo(text)
-        sentence_count = openai.count_sentences_with_gpt_3_5_turbo(text)
+        cleaned_text = openai.clean_data_with_gpt_4(text)
+        sentence_count = openai.count_sentences_with_gpt_4(text)
         return sentence_count, cleaned_text
     return 0, ""  # Default values for skipped cells
 
@@ -32,3 +31,18 @@ df[['n_sentence', 'llm_text']] = df['text'].apply(lambda text: pd.Series(process
 df.to_csv(output_file, index=False)
 print(f"Processed data has been saved to {output_file}.")
 
+""""
+TODO:
+Research about Llama3
+
+DONE:
+1. A script to track number of tokens used
+2. Use sample of 50 rows
+    . With script Counter
+    . With GPT-4 Counter (twice)
+    . With GPT-3 Counter
+
+    
+Update: I was testing the GPT 3, and it's total cost became much larger than the cost of gpt4, it's unbelievably high,
+will check this with Prof. Sag
+"""
