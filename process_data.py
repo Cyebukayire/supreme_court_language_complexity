@@ -1,10 +1,9 @@
-from scripts.counter import count_sentences
 from models import openai
 import pandas as pd
 
 # Load the dataset
 input_file = 'data/casetext2022_for_gpt.csv'
-output_file = 'data/processed_with_gpt_4_(2)casetext2022.csv'
+output_file = 'data/processed_with_gpt_4_casetext2022.csv'
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(input_file)

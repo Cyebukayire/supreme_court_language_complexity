@@ -28,7 +28,8 @@ def clean_data_with_gpt_4(text: str):
             {"role": "user", "content": prompt}
         ]
     )
-
+    print("\n\n",response.to_dict(), "\n\n")
+    
     # Save log history
     save_api_log(data=response.to_dict(), task="clean text")
 
