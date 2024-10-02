@@ -2,14 +2,14 @@ from models import openai
 import pandas as pd
 
 # Load the dataset
-input_file = 'data/casetext2022_for_gpt.csv'
-output_file = 'data/processed_with_gpt_4_casetext2022.csv'
+input_file = 'data/updated_casetext2022_for_gpt.csv'
+output_file = 'data/new_processed_152_rows_with_gpt_4_casetext2022.csv'
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(input_file)
 
 # Apply to only first 10 rows
-df = df.head(50)
+df = df.iloc[52:202]
 
 # Initialize columns for the processed data
 df['n_sentence'] = 0
@@ -27,21 +27,12 @@ def process_cell(text):
 df[['n_sentence', 'llm_text']] = df['text'].apply(lambda text: pd.Series(process_cell(text)))
 
 # Save the processed DataFrame to a new CSV file
+# df.to_csv(output_file, mode='a', header =False, index=False)
 df.to_csv(output_file, index=False)
-print(f"Processed data has been saved to {output_file}.")
+print(f"Processed data has been appended to {output_file}.")
 
 """"
 TODO:
+Process and append next 150 rows to processed data file
 Research about Llama3
-
-DONE:
-1. A script to track number of tokens used
-2. Use sample of 50 rows
-    . With script Counter
-    . With GPT-4 Counter (twice)
-    . With GPT-3 Counter
-
-    
-Update: I was testing the GPT 3, and it's total cost became much larger than the cost of gpt4, it's unbelievably high,
-will check this with Prof. Sag
 """
