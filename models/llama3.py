@@ -44,14 +44,3 @@ def count_sentences_with_llama3(text: str):
     result = response.choices[0].message.content
 
     return result
-
-
-
-# # Example usage
-# text_sample = "This is a test paragraph. Mr. John Smith said, 'It's great!' See Smith v. Jones, 123 F.3d 45 (1999)."
-
-# cleaned_text = clean_data_with_llama3(text_sample)
-# sentence_count = count_sentences_with_llama3(text_sample)
-
-# print(f"Cleaned Text: {cleaned_text}")
-# print(f"Sentence Count: {sentence_count}")
