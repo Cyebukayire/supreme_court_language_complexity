@@ -3,7 +3,7 @@ import pandas as pd
 
 # Load the dataset
 input_file = 'data/casetext2022_for_gpt.csv'
-output_file = 'data/new_processed_200_300_rows_with_llama3_casetext2022.csv'
+output_file = 'data/new_processed_200_300_rows_with_Llama_3.2_11B_Vision_Instruct_Turbo_casetext2022_v2.csv'
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(input_file)

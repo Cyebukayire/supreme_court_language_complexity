@@ -13,7 +13,7 @@ def clean_data_with_llama3(text: str):
 
     # Use Together to process the data
     response = client.chat.completions.create(
-        model="meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+        model="meta-llama/Llama-3.2-11B-Vision-Instruct-Turbo",
         messages=[{"role": "user", "content": prompt}],
         stream=False  # No need to stream for this task
     )
