@@ -2,8 +2,8 @@ from models import openai, llama3
 import pandas as pd
 
 # Load the dataset
-input_file = 'data/casetext2022_for_llm.csv'
-output_file = 'data/processed_casetext2022_for_llm.csv'
+input_file = 'data/casetext2021_for_llm.csv'
+output_file = 'data/processed_casetext2021_for_llm.csv'
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(input_file)
